@@ -1,3 +1,9 @@
+cobbler (2.2.3-2) unstable; urgency=low
+
+  * Release bump
+
+ -- Marcelo Martins <mmartins@racklabs.com>  Tue, 27 Nov 2012 20:25:21 +0000
+
 cobbler (1.5.0-1) unstable; urgency=low
 
   * Release bump
